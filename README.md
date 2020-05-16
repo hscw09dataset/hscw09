@@ -17,5 +17,5 @@ Each intervals' files are stored in warc format and ready to be indexed using th
 
 # Queries 
 
-We used the ClueWeb queries that can be downloaded here: http://trec.nist.gov/data/webmain.html.
-The mapping between each document ID to the query number it was initially retreived for can be found in the document_query_mapping.tsv file. 
+We used the ClueWeb09 queries that can be downloaded here: http://trec.nist.gov/data/webmain.html.
+The mapping between each document ID to the query number that it was initially retreived for, can be found in the document_query_mapping.tsv file. 
